@@ -1,0 +1,13 @@
+@media screen and (max-width:412px) {
+ .cookies{
+    height: 50;
+    width: 100;
+ }
+ p{
+    font-size: 30px;
+ }
+ .karp{
+    height: 150;
+    width: 250;
+ }
+}
